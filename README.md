@@ -26,7 +26,7 @@ Project created by <a href="https://github.com/nijin-husni">nijinser-husni</a> t
   
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@HUSNIV2/MAALUTTYV2)
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/nijinser-husni/Maalutty_V2)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/nijin-husni/Maalutty_V2)
      </div>
 
 ### The Hard Method
